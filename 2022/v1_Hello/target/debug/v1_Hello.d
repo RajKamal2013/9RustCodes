@@ -1,0 +1,1 @@
+/Users/rakamal/Library/Mobile\ Documents/com~apple~CloudDocs/GIT/9RustCodes/2022/v1_Hello/target/debug/v1_Hello: /Users/rakamal/Library/Mobile\ Documents/com~apple~CloudDocs/GIT/9RustCodes/2022/v1_Hello/src/main.rs
